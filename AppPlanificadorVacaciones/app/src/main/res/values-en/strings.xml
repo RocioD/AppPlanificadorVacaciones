@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_agregar">Add place</string>
+    <string name="t_costo_noche">Price per night</string>
+    <string name="t_traslados">Travel cost</string>
+    <string name="t_comentarios">Comments</string>
+    <string name="t_lugar">Place</string>
+    <string name="t_imagen">Reference image</string>
+    <string name="t_coordenadas">Latitude, Longitude</string>
+    <string name="t_orden">Order</string>
+    <string name="btn_guardar">Save</string>
+</resources>

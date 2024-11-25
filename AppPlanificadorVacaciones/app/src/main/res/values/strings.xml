@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppPlanificadorVacaciones</string>
+    <string name="btn_agregar">Agregar lugar</string>
+    <string name="t_costo_noche">Costo por noche</string>
+    <string name="t_traslados">Costo traslados</string>
+    <string name="t_comentarios">Comentarios</string>
+    <string name="t_lugar">Lugar</string>
+    <string name="t_imagen">Imagen de referencia</string>
+    <string name="t_coordenadas">Latitud, Longitud</string>
+    <string name="t_orden">Orden</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="title_activity_formulario">Formulario</string>
+    <string name="title_activity_detalle_lugar">DetalleLugar</string>
+</resources>
